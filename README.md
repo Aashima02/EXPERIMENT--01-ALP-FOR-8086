@@ -54,7 +54,8 @@ MOV AH,00H;
 HLT;
 ``` 
 ### Output: 
-![output](./addition.png)
+![addition](https://user-images.githubusercontent.com/93427086/189373602-d4e28797-4b18-4b77-bac9-0a7c0ff7e7e7.png)
+
 
 ## Subtraction of 8 bit ALP: 
 ```
@@ -68,7 +69,7 @@ MOV AH,00H;
 HLT;
 ``` 
 ## Output  
-![output](./subtraction.png)
+![subtraction](https://user-images.githubusercontent.com/93427086/189373659-dcf9df19-0f35-4847-a08e-bc4b46b3b132.png)
 
 ## Multiplication of 8 bit ALP:
 ```
@@ -83,7 +84,7 @@ HLT;
 ```
 
  ## Output  
-![output](./multiplication.png)
+![multiplication](https://user-images.githubusercontent.com/93427086/189373689-403eb021-92a1-4213-9d30-48905a6df3b7.png)
 
 ## Division of 8 bit ALP:
 ```
@@ -97,7 +98,7 @@ MOV AL,00H;
 HLT;
 ```
 ## Output  
-![output](./division.png)
+![division](https://user-images.githubusercontent.com/93427086/189373709-03700116-6e6a-4b3e-b332-a52bb63de98a.png)
 
 ## RESULT :
 Thus, a program is executed on ALP for the fundamental arithmetic and logical operations. 
